@@ -1,3 +1,2 @@
 # tourism_app
-
-A new Flutter project.
+ Untuk referensi tugas akhir mata kuliah Pemrograman Web dan Mobile II
